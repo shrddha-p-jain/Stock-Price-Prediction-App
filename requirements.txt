@@ -1,0 +1,13 @@
+numpy
+pandas
+datetime
+sktime==0.4.1
+sklearn
+math
+statsmodels
+pmdarima
+streamlit
+sqlite3
+yfinance
+matplotlib
+warnings
