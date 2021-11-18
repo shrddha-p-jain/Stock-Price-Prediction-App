@@ -77,7 +77,7 @@ else:
 
     model = st.selectbox('Model',['Simple Exponential Smoothing','Halt Model','Holt-Winter Model','Auto Regressive Model',
                                   'Moving Average Model','ARMA Model', 'ARIMA Model','AutoARIMA',
-                                  'Linear Regression','K-Nearest Neighbors','Random Forest', 'Gradient Boosting','Support Vector Machines',
+                                  'Linear Regression','Random Forest', 'Gradient Boosting','Support Vector Machines',
                                   ])
 
     if model=='Simple Exponential Smoothing':
