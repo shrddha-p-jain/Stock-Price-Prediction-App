@@ -8,5 +8,5 @@ pmdarima
 streamlit
 #sqlite3==3.35.4
 yfinance
-matplotlib
-warnings
+#matplotlib
+#warnings
