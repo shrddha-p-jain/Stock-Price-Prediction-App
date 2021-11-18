@@ -3,7 +3,6 @@ pandas
 datetime
 sktime==0.4.1
 sklearn
-math
 statsmodels
 pmdarima
 streamlit
