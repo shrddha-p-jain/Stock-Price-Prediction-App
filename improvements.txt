@@ -1,0 +1,2 @@
+1. Add an expander to get company info
+2. Add an expander to state the assumptions of the model used. Also can check whether the assumptions are satisfied or not.
